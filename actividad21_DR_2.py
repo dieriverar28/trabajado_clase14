@@ -1,6 +1,5 @@
 import random
-from os import system
-from msvcrt import getch
+
 
 lista=[]
 
